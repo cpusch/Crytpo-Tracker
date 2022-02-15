@@ -1,0 +1,41 @@
+Recommender system using python ai/ml
+
+build recommender system 
+
+Data about customers business are interested in is how many
+	of the customers are not using recourses/not taking advantage of the platform
+	what type of people are using the business what customers are leaving the platform
+	
+	What customers are stagnant(signed up but did not use the system)
+	something is wrong with the platform
+	
+	How many customers are churning what indicators tell me what groups
+	are looking promissing and what group should i be worried about.
+	
+
+Soul of project is recommendation system cloud vendor
+	for example to build a website you need a good amount of products to build it out
+	
+	if one customer is using a lot of recources and a new custoemr is using a few of the
+	same products you can recommend other products to them that they might need
+	
+	if you know that there are a lot of products that people use together you can find
+	those and bundle them and sell more of them. Sell as much as you can since the proffit
+	margins are lower. 
+	
+	One the customer is on your platform they can't really leave your platform. 
+	
+Part 1. Create clustering solution so you can cluster the customers that are not using the solution
+		and other customers that are promissing and using the solution
+		
+Part 2. If you know the customers that will churn or not churn you can build a	
+		recommender system that if you know if a customer is using a certain products	
+		you can sell them the other products as a recommendation on the dashboard
+		
+Part 3. Create a visualization dashboard in order to show what is happening
+
+Put code on github
+
+find datasets on gaggle, uci university
+
+churning defined by amount of money they spend
